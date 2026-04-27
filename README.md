@@ -2,7 +2,7 @@
 
 A Ratatui-powered terminal UI that lets you watch **Qwen2.5-Coder** (via Ollama)
 autonomously run commands, write code, and operate entirely within a sandboxed
-workspace, while you queue up tasks from a side panel in real time.
+workspace, while you queue up tasks from a side panel in real time. Qwen2.5-coder works sufficently but prefer certain commands over others stopping progress. 
 
 ```
 ╔══════════════════════════════════════╦═══════════════════════╗
