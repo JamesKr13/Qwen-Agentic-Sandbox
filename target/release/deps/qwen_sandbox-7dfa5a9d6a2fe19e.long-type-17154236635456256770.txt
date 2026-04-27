@@ -1,0 +1,2 @@
+std::sync::MutexGuard<'_, HashMap<u32, tokio::process::Child>>
+Pin<Box<dyn futures::Future<Output = Result<(), anyhow::Error>> + std::marker::Send>>
