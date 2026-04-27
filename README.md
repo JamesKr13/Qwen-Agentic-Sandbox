@@ -87,12 +87,12 @@ you launch the binary.  The agent cannot read or write outside that directory.
 
 ---
 ## Planning out complex task
-```
+
 The system queries the AI to construct a details phases for a complex task for which
 it could achieve. For each phases further construct a detailed plan of action of complete
 Planning how a phases maybe be acheived. From which the AI follows the plan as if the user
 Assigned them as tasks. AI has a option of futher tool calls or completing said task.
-```
+
 ---
 
 ## Sandbox safety
