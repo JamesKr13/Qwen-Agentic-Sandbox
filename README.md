@@ -118,8 +118,3 @@ Edit `src/agent.rs` to:
 Edit `src/ollama.rs → all_tools()` to add more tools.
 
 Edit `src/main.rs` to change the sandbox path (default `./sandbox_workspace`).
-
-
-## Disclaimer
-
-The code was not fully produced by myself, coded in junction with Claude code before the limit was hit. 
